@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Great First Post
+title: What I Learned From Building My First PC
 ---
 
 This is it!
