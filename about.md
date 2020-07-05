@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
-## Self Intro
+My name is Alan Luo. I'm from Redfield, Arkansas. I studied Analytics in Grad School and now build dashboards for a living. Data is my life blood. Yes, I enjoy crunching numbers and writing code.
 
-My name is Alan and I am a Data Enthusiast. I enjoy analyzing and visualizing datasets with tools such as python and powerBI. This is a blog that documents some of my life and some of the lessons I learned while doing data analysis. If you'd like to learn more about my projects, feel free to visit [my github](https://github.com/datamanju).
+This site records my progression towards the goal of becoming a data scientist. Occasionally I'll include content about other aspects of my life. You’re most welcome to [contact me](mailto:alan_l@datamanju.com) for potential employment, to make comments, or to give suggestions.
+
+## My Projects
+If you'd like to learn about the projects I've done in the past, feel free to visit [my github](https://github.com/datamanju).
