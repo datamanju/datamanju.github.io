@@ -12,3 +12,4 @@ theme: minima
 # Header Pages
 header_pages:
   - about.md
+  - README.md
