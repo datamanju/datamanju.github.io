@@ -1,4 +1,4 @@
-# basic options
+# Basic options
 title: Alan Luo - Data Analyst
 author: Alan
 email: alanluo@outlook.com
@@ -8,3 +8,8 @@ github_username:  datamanju
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Header Pages
+header_pages:
+  - about.md
+  - portfolio.md
