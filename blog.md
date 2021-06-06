@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-###The Beginning of a Blog
+### The Beginning of a Blog
 
 `Jun 6th, Sunday 2021`
 
