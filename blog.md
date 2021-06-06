@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: Blog
 ---
 
 My name is Alan Luo. I live in Baltimore City, Maryland. I studied analytics in grad school and now build data solutions for a living. Data is my life blood. I enjoy crunching numbers and writing code.
