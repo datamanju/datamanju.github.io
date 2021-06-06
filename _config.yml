@@ -11,5 +11,5 @@ theme: minima
 
 # Header Pages
 header_pages:
-  about.md
-  -test.md
+  - about.md
+  - test.md
