@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-My name is Alan Luo. I live in Baltimore, Maryland. I studied analytics in grad school and now build dashboards for a living. Data is my life blood. Yes, I enjoy crunching numbers and writing code.
+My name is Alan Luo. I live in Baltimore City, Maryland. I studied analytics in grad school and now build data solutions for a living. Data is my life blood. I enjoy crunching numbers and writing code.
 
-This site records my progression towards the goal of becoming a data scientist. Occasionally I'll include content about other aspects of my life. You’re most welcome to [contact me](mailto:alan_l@datamanju.com) for potential employment, to make comments, or to give suggestions.
-
-## My Projects
-If you'd like to learn about the projects I've done in the past, feel free to visit [my github](https://github.com/datamanju).
+This site contains a list of projects I've worked on in the past and will highlight not just content related to data analytics but also data engineering. Occasionally I'll throw in a few articles about other aspects of my life. You’re most welcome to [contact me](mailto:alan@outlook.com) for potential employment, to make comments, or to give advice. Feel free to visit [my github](https://github.com/datamanju) as well.
