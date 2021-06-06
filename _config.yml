@@ -7,7 +7,7 @@ github_username:  datamanju
 
 # Build settings
 markdown: kramdown
-theme: minama
+theme: minima
 
 # Header Pages
 header_pages:
