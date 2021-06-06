@@ -7,4 +7,4 @@ title: Blog
 
 `Jun 6th, Sunday 2021`
 
-I'm not particularly fond of online blogging. Anything you post comes with risks. Your opinions today may be used against you tomorrow. On the bright side, blogging can help you keep track of your progression in life. It can be used to express the gratitude and joys of life. For me, it is a reflection of my perceived realities.
+I'm not particularly fond of online blogging. Anything you post comes with risks. Your opinions today may be used against you tomorrow. On the bright side, blogging can help you keep track of your progression in life. It can be used to express the gratitude and joys of life. To me, it is a reflection of my perceived realities.
