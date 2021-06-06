@@ -1,6 +1,8 @@
 # Basic options
 title: Alan Luo - Data Analyst
-email: alanluo@outlook.com
+author:
+  name: Alan
+  email: "alanluo@outlook.com"
 description: Tech, Data and Life
 github_username:  datamanju
 
