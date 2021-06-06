@@ -1,10 +1,10 @@
 # basic options
-title: Alan Luo 
-author: Alan Luo - Data Analyst
+title: Alan Luo - Data Analyst
+author: Alan
 email: alanluo@outlook.com
 description: Tech, Data and Life
 github_username:  datamanju
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: dinky
