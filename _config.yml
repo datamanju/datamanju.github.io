@@ -7,4 +7,4 @@ github_username:  datamanju
 
 # Build settings
 markdown: kramdown
-theme: Jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
