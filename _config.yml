@@ -1,5 +1,5 @@
 # Basic options
-title: Datamanju
+title: Datamanju - A Portfolio Site
 author: Alan Luo
 email: "alanluo@outlook.com"
 description: Tech, Data and Life
@@ -11,5 +11,5 @@ theme: minima
 
 # Header Pages
 header_pages:
-  - about.md
-  - README.md
+  about.md
+  test.md
