@@ -3,7 +3,7 @@ layout: post
 title: Why Data Analytics is hard?
 ---
 
-I've been working in two different industries over the past 5 years as a data analyst. I have a masters degree, but continue to take courses on my subject matter on a daily basis. I've completed bootcamps to reinforce and broaden my view of what engineers and data scientists do. But at the end of the day, I still feel that being a data analyst is hard. The challenges mainly come from three sides:
+I've been working in two different industries over the past 5 years as a data analyst. I have a masters degree, but continue to take courses on my subject matter on a daily basis. I've completed bootcamps to reinforce and broaden my view on what engineers and data scientists do. But at the end of the day, I still feel that being a data analyst is hard. The challenges mainly come from three sides:
 
 1. Issues aren't limited to Data or Analytics alone.
 
