@@ -10,7 +10,7 @@ I was sitting with my grandpa at my parent's home in the south. It was a little 
 
 Quote "Dreams feel real while we are in them, it's only when we wake up that we realize something was strange." A lucid dream is a type of dream where the dreamer becomes aware that they are dreaming. During a lucid dream, the dreamer may gain some amount of control over the dream characters, narrative, and environment. Wouldn't it be cool if there were a device that controls lucid dreams. It'd definitely serve as a good therapeutic tool, with the ability to satisfy desires and bring memories of people back.
 
-
+___
 ### The Beginning of a Blog
 
 `Jun 6th, Sunday 2021`
