@@ -5,7 +5,7 @@ title: Blog
 ___
 ### Sleep and Lucid Dreams
 
-`Jun 8th, Sunday 2021`
+`Jun 8th, Tuesday 2021`
 
 I was sitting with my grandpa at my parent's home in the south. It was a little cloudy, but the cool sea breeze that came along with it was welcoming. We were on the veranda of our home on the fifth floor of the building. Grandpa sat on a on a little stool with his back against the wall, and we admired the towering residential buildings around us. I fumbled through my guitar a little bit, played a couple riffs and then asked grandpa what he liked about the south. He chuckled and said that he'd prefer here since he'd get usually sunburnt if he were hanging out in his home city. I laughed and the dream ended. I woke up but decided to lay in bed for a while, savoring the details of the dream. Grandpa was someone that I dearly missed. 
 
