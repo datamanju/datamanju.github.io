@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Data Analytics sometimes make me question my sanity?
+title: Why Data Analytics Sometimes Make Me Question My Sanity?
 ---
 
 I've been working as a data analyst in two different industries over the past 5 years. Data Analytics as a skill in itself isn't difficult to learn. The main challenge that comes with being a data analyst actually revolves around understanding, obtaining and cleaning of data. When a system or application is created, the database structure is designed by the developer. A data analyst's job is to figure out how and why a developer designed a data structure in a specific way, and figure out how they can extract that data to build dashboards and insights around them. On paper, this might seem easy: extract the data, write the SQL code, build a couple of bar charts. Not so fast...here are a couple of issues that the analyst will need to figure out:
