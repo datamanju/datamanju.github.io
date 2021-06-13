@@ -8,9 +8,11 @@ title: Blog
 
 I was looking for ingredients for Lasagna today but after strolling through the grocery aisles at our local supermarket like a mad man, I soon realized I couldn't find the right ingredients for the dish. 
 
-What I did find was an offer of store-made Lasagna. After asking the clerk about how to cook it, he told me to simply bake it at 350F for about 30 minutes and I'd have it hot and ready. When I got home, I followed the clerk's instructions and put the Lasagna in the oven. It turned out a bit greasy on the top but I didn't mind and scooped it out onto a plate. After observing it from all angles, I grabbed a fork and dug into it. I was disappointed. On one hand, we have this beautifully layered construct of cheese, pasta, and meat sauce. On the other hand, the taste resembles any other tomato meat sauce-based pasta dish, making it ordinary.
+What I did find was an offer of store-made Lasagna. After asking the clerk pn how to cook it, he elaborated that I simply had to bake it at 350F for about 30 minutes and it'd be hot and ready. When I got home, I followed the clerk's instructions and put the Lasagna in the oven. The dish turned out to be a bit greasy on the top but I other than that, it was fine. I scooped it out onto a plate and started examining it from all angles. 
 
-But then thinking back again, I've never had good lasagna before. I decided to do a google search and find out what good lasagna looked like. I came across a Buzzfeed video titled "$13 Lasagna vs $60 Lasagna". The difference between the store-bought and restaurant-made Lasagna was quite obvious. The restaurant Lasagna was less saucy more burnt, had more ingredients, and was made out of better pasta and cheese. After finishing the video I put it on my bucket list to visit one of those restaurants one day. 
+Finally, I grabbed a fork and dug into it. I was disappointed. On one hand, we have this beautifully layered construct of cheese, pasta, and meat sauce on a plate. On the other hand, the taste resembles any other tomato meat sauce-based pasta dish, making it quite ordinary.
+
+I decided to do a google search and find out what if all lasagna's were like this. I came across a video titled "$13 Lasagna vs $60 Lasagna". The difference between the store-bought and restaurant-made Lasagna was quite obvious. The restaurant Lasagna was less saucy, more burnt, and was made out of better pasta and cheese. After finishing the video I put it on my bucket list to visit one of these restaurants one day. 
 
 ___
 ### Sleep and Lucid Dreams
