@@ -4,7 +4,7 @@ title: Blog
 ---
 ### Craving Lasagna
 
-`Jun 13th, Tuesday 2021`
+`Jun 13th, Sunday 2021`
 
 I was looking for ingredients for Lasagna today but after strolling through the grocery aisles at our local supermarket like a mad man, I soon realized I couldn't find the right ingredients for the dish. 
 
