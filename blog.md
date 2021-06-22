@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-### Thoughts on the Psychopass
+### Thoughts on Psychopass
 
 `Jun 22nd, Tuesday 2021`
 
